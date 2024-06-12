@@ -1,4 +1,4 @@
-espring:
+spring:
   boot:
     admin:
       client:
