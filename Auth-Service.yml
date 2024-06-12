@@ -20,8 +20,7 @@ management:
         include: '*'
 server:
  port: 8082
-server:
- port: 8081
+
 
 # Application messages goes here
 auth-service:
