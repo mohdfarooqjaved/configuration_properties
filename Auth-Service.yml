@@ -1,4 +1,4 @@
-spring:
+espring:
   boot:
     admin:
       client:
@@ -10,7 +10,7 @@ spring:
 
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
     show-sql: true
     
 management:
