@@ -6,7 +6,7 @@ spring:
   datasource:
     username: root
     password: root
-    url: jdbc:mysql://localhost:3306/mydb
+    url: jdbc:mysql://localhost:3306/ashokit_e-commerce_db
 
   jpa:
     hibernate:
