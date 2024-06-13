@@ -6,7 +6,7 @@ spring:
   datasource:
     username: root
     password: root
-    url: jdbc:mysql://localhost/mydb3?createDatabaseIfNotExist=true&useSSL=true
+    url: jdbc:mysql://localhost/mydb4?createDatabaseIfNotExist=true&useSSL=true
 
   jpa:
     hibernate:
